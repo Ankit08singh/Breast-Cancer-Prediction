@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction
-This Project uses the Wisconsin (original) dataset to get the result.
+This Project uses the **Wisconsin (original) dataset** to get the result.
 
 **This project uses various algorithms:**
 - Classification & Regression Trees (CART)
